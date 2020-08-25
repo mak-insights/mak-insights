@@ -11,10 +11,6 @@
 - 🤔 I’m looking for help with Hadoop and Hive Installation...
 - 💬 Ask me about Financial Sector Technology challenges ...
 
-### Connect with me:
-
-[<img align="left" alt="Aurangzeb Khan | LinkedIn" width="22px" src="https://www.linkedin.com/in/aurangzeb-khan-10531446/" />][linkedin]
-
 <br />
 
 ### Languages and Tools:
@@ -33,7 +29,7 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Data Analysis Case Studies](https://github.com/mak-insights/infinite_stats)
-
 <!-- BLOG-POST-LIST:END -->
-
 ➡️ [more blog posts...](https://medium.com/@rana.aurangzeb81)
+
+[Linkedin]: https://www.linkedin.com/in/aurangzeb-khan-10531446/

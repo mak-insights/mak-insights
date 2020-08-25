@@ -29,10 +29,10 @@
 ### 📕 Latest Blog Posts
 <br />
 <!-- BLOG-POST-LIST:START -->
-- [Data Analysis Case Studies](https://github.com/mak-insights/infinite_stats)
+-- [Data Analysis Case Studies](https://github.com/mak-insights/infinite_stats)
 
 <!-- BLOG-POST-LIST:END -->
 <br />
-[LinkedIn]: https://www.linkedin.com/in/aurangzeb-khan-10531446/
+-- [LinkedIn]: https://www.linkedin.com/in/aurangzeb-khan-10531446/
 </details>
 

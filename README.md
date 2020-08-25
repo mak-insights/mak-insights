@@ -27,6 +27,7 @@
 <br />
 ---
 ### 📕 Latest Blog Posts
+<br />
 <!-- BLOG-POST-LIST:START -->
 - [Data Analysis Case Studies](https://github.com/mak-insights/infinite_stats)
 

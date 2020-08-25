@@ -30,7 +30,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Data Analysis Case Studies](https://github.com/mak-insights/infinite_stats)
 
-</details>
 <!-- BLOG-POST-LIST:END -->
-[Linkedin]: https://www.linkedin.com/in/aurangzeb-khan-10531446/
+<br />
+[LinkedIn]: https://www.linkedin.com/in/aurangzeb-khan-10531446/
+</details>
 

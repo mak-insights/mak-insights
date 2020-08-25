@@ -23,7 +23,6 @@
 #### Erwin
 <br />
 <br />
----
 -- 📕 Latest Blog Posts
 <br />
 <!-- BLOG-POST-LIST:START -->

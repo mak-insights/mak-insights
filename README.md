@@ -12,7 +12,9 @@
 - 💬 Ask me about Financial Sector Technology challenges ...
 
 <br />
+
 ### Languages and Tools:
+
 #### SQL
 #### Hive SQL
 #### Postgres
@@ -28,10 +30,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [Data Analysis Case Studies](https://github.com/mak-insights/infinite_stats)
 
-
-➡️ [more blog posts...](https://medium.com/@rana.aurangzeb81)
-
----
 </details>
 <!-- BLOG-POST-LIST:END -->
 [Linkedin]: https://www.linkedin.com/in/aurangzeb-khan-10531446/

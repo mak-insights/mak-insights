@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mak-insights/mak-insights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there, I'm Aurangzeb Khan - aka [Khan] 👋
 
 ## I'm a Data Enthusiast, Banking/Finance Professional and Data Analyst with exposure to Statistical Analysis !!
